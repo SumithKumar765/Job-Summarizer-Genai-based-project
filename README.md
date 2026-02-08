@@ -1,5 +1,5 @@
 # Job-Summarizer-Genai-based-project
-In this project, I have used the GROQAPI to develop a well-designed Streamlit application that breaifly describes the job description as well as it will guide in simple manner for startargise the interview with ease 
+"An intelligent interview preparation tool powered by OpenAI and built with Streamlit. Simply input a job description, and the app will help you understand the role requirements while providing tailored strategies to approach your interview with ease and confidence." 
 ###note
 you need to add open ai api to work thids model
 <br>
